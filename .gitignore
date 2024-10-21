@@ -1,0 +1,9 @@
+# Ignores virtual enviornment so it doesn't get pushed into repo
+venv/
+env/
+.venv/
+hackavenv/
+
+# Ignore the tokens 
+token.json
+credentials.json
