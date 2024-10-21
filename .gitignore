@@ -5,5 +5,5 @@ env/
 hackavenv/
 
 # Ignore the tokens 
-token.json
-credentials.json
+server/token.json
+server/credentials.json
